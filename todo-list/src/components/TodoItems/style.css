@@ -1,0 +1,14 @@
+.container {
+  flex: 1 1;
+  /* width: 100%; */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.Item {
+  cursor: pointer;
+  color: blueviolet;
+  font-size: 20px;
+}
